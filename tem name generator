@@ -1,0 +1,4 @@
+print("Welcome to my football name generator")
+city = input("tell me the name of your city where you live right now\n")
+fav_animal = input("tell me your favourite animal in plural like lions\n")
+print("the name of your team will be" + " " + city + " " + fav_animal)
